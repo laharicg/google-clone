@@ -1,0 +1,16 @@
+Topics covered 
+-------------------
+Context API(redux)
+Material UI
+React Router - search page results instantly w/o refresh
+google Custom search API
+Custom hook with React
+Firebase 
+-----------------------
+React-router-dom --> browserRouter uses HTML5 history
+		APIs (ex: /about , /home)
+Link tags instead <a> since <a> refreshes the page 
+ but link goes instantly.
+text-transform: inherit;  //overwrites materialUI default capital letters
+
+enter hit -->button  type= "submit"
