@@ -6,6 +6,7 @@ import { Button } from "@material-ui/core";
 import { useHistory } from "react-router-dom";
 import { useStateValue } from "./StateProvider";
 import { actionTypes } from "./reducer";
+import API_KEY from "./keys";
 
 function Search({ hideButtons = false }) {
   const [{}, dispatch] = useStateValue();
@@ -15,6 +16,7 @@ function Search({ hideButtons = false }) {
   const search = (e) => {
     e.preventDefault();
     console.log("You hit Search button!", input);
+    console.log(API_KEY);
 
     dispatch({
       type: actionTypes.SET_SEARCH_TERM,
