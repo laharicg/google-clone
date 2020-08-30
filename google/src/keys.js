@@ -1,6 +1,6 @@
 //import
 require("dotenv").config();
-const API_KEY = "AIzaSyD95imheDMbDTimAjn6LwtJUuY43qlIeFo";
+const API_KEY = "";
 console.log(process.env);
 
 export default API_KEY;

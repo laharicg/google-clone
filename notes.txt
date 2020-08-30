@@ -18,3 +18,9 @@ enter hit -->button  type= "submit"
 Custom API --> https://developers.google.com/custom-search/v1/using_rest
 
 identify appln --> get  key
+----------------------------------
+programmable search
+
+
+API_KEY = AIzaSyD95imheDMbDTimAjn6LwtJUuY43qlIeFo
+https://cse.google.com/cse/create/new 
