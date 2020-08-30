@@ -21,6 +21,4 @@ identify appln --> get  key
 ----------------------------------
 programmable search
 
-
-API_KEY = AIzaSyD95imheDMbDTimAjn6LwtJUuY43qlIeFo
 https://cse.google.com/cse/create/new 
